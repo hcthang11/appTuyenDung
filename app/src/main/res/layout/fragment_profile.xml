@@ -5,7 +5,7 @@
     <data>
          <variable
              name="profileViewModel"
-             type="com.b15d52nhom4.apptuyendung.ui.account.ProfileViewModel" />
+             type="com.hcthang.apptuyendung.ui.account.ProfileViewModel" />
         <import type="android.view.View"/>
     </data>
     <LinearLayout

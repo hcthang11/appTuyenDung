@@ -3,7 +3,7 @@
     <data>
         <variable
             name="user"
-            type="com.b15d52nhom4.apptuyendung.data.model.UserExample" />
+            type="com.hcthang.apptuyendung.data.model.UserExample" />
     </data>
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"

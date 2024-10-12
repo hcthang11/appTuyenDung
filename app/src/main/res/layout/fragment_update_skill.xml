@@ -4,7 +4,7 @@
     <data>
          <variable
              name="updateSkillViewModel"
-             type="com.b15d52nhom4.apptuyendung.ui.account.update_skill.UpdateSkillViewModel" />
+             type="com.hcthang.apptuyendung.ui.account.update_skill.UpdateSkillViewModel" />
          <import type="android.view.View"/>
     </data>
     <ScrollView

@@ -6,7 +6,7 @@
     <data>
          <variable
              name="candidateMainViewModel"
-             type="com.b15d52nhom4.apptuyendung.ui.candidate.CandidateMainModelView" />
+             type="com.hcthang.apptuyendung.ui.candidate.CandidateMainModelView" />
         <import type="android.view.View"/>
     </data>
     <RelativeLayout

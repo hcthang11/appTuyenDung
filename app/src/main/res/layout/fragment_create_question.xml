@@ -5,7 +5,7 @@
     <data>
         <variable
             name="createQuestionViewModel"
-            type="com.b15d52nhom4.apptuyendung.ui.employer.create_job.create_question.CreateQuestionViewModel"/>
+            type="com.hcthang.apptuyendung.ui.employer.create_job.create_question.CreateQuestionViewModel"/>
         <import type="android.view.View"/>
     </data>
     <LinearLayout

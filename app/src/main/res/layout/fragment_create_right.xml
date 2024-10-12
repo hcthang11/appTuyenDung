@@ -5,7 +5,7 @@
     <data>
           <variable
               name="createRightViewModel"
-              type="com.b15d52nhom4.apptuyendung.ui.employer.create_job.create_right.CreateRightViewModel" />
+              type="com.hcthang.apptuyendung.ui.employer.create_job.create_right.CreateRightViewModel" />
           <import type="android.view.View"/>
     </data>
 
