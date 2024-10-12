@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.b15d52nhom4.apptuyendung">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="29" />
+    <uses-permission
+        android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+
+    <application
+        android:name="com.b15d52nhom4.apptuyendung.common.MVVMApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo_app"
+        android:label="Tuyển dụng việc làm"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BaseMVVM">
+        <activity
+            android:name=".Payer3Activity"
+            android:exported="false" />
+        <activity
+            android:name="com.b15d52nhom4.apptuyendung.ui.payer.payper2.Payer2Activity"
+            android:exported="false" />
+        <activity
+            android:name="com.b15d52nhom4.apptuyendung.ui.payer.payper2.CardActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.b15d52nhom4.apptuyendung.ui.payer.PayerActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.b15d52nhom4.apptuyendung.ui.payer.PayerTestActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.b15d52nhom4.apptuyendung.ui.employer.EmployerMainActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.b15d52nhom4.apptuyendung.ui.candidate.CandidateMainActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.b15d52nhom4.apptuyendung.ui.login.FirstActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.b15d52nhom4.apptuyendung.ui.xample.MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

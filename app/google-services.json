@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043261113746",
+    "firebase_url": "https://apptimviec-3b42e-default-rtdb.firebaseio.com",
+    "project_id": "apptimviec-3b42e",
+    "storage_bucket": "apptimviec-3b42e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043261113746:android:155b4d960bccd3e21bed4b",
+        "android_client_info": {
+          "package_name": "com.b15d52nhom4.apptuyendung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043261113746-scfo1k9fmhi0cbghtpudg1me662gbi25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.b15d52nhom4.apptuyendung",
+            "certificate_hash": "592a8deb2681b356b1b9d9f04ab659dcf7ff6ffe"
+          }
+        },
+        {
+          "client_id": "1043261113746-abbjjqdsdr673bbdlkf7o42j4k683rme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxt6tXCSOg2T5YjcxIGAlBy4XqMWSPu6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043261113746-abbjjqdsdr673bbdlkf7o42j4k683rme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
