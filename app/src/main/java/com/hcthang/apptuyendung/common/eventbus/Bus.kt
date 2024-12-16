@@ -4,12 +4,6 @@ import androidx.annotation.MainThread
 import com.hcthang.apptuyendung.common.eventbus.ActionBus
 import com.hcthang.apptuyendung.common.eventbus.ElementBus
 
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
-
 
 @Suppress("UNCHECKED_CAST")
 class Bus {
