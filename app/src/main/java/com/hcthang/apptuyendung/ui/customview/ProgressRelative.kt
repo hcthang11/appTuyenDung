@@ -5,12 +5,8 @@ import android.os.Build
 import android.util.AttributeSet
 import android.view.MotionEvent
 import android.view.View
-import android.widget.RelativeLayout
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
+import android.widget.RelativeLayout//******************************
+
 
 class ProgressRelative: RelativeLayout, View.OnTouchListener {
 

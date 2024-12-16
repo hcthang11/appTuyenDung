@@ -7,11 +7,6 @@ import android.view.Window
 import android.widget.TextView
 import androidx.annotation.StringRes
 import com.hcthang.apptuyendung.R
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 class ConfirmDialog : Dialog, View.OnClickListener{
     private var mInterf: IConfirmDialog? = null

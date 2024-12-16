@@ -11,11 +11,6 @@ import com.hcthang.apptuyendung.ui.base.viewmodel.BaseViewModel
 import dagger.android.support.AndroidSupportInjection
 import java.util.*
 import javax.inject.Inject
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 abstract class BaseMvvmFragment<
         CallBack : BaseCallBack,

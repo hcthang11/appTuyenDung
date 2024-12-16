@@ -9,11 +9,6 @@ import dagger.android.AndroidInjector
 import dagger.android.DispatchingAndroidInjector
 import dagger.android.HasAndroidInjector
 import javax.inject.Inject
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 class MVVMApplication : MultiDexApplication(), HasAndroidInjector{
     lateinit var appComponent: AppComponent

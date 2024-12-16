@@ -1,11 +1,6 @@
 package com.hcthang.apptuyendung.common
 
 import java.util.*
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 object Constants {
     const val DEBUG = true

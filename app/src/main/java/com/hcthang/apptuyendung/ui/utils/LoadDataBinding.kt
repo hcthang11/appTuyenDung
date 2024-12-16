@@ -4,11 +4,6 @@ import androidx.appcompat.widget.AppCompatImageView
 import androidx.databinding.BindingAdapter
 import com.hcthang.apptuyendung.R
 import com.hcthang.apptuyendung.ui.customview.GlideApp
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 object LoadDataBinding {
     @JvmStatic

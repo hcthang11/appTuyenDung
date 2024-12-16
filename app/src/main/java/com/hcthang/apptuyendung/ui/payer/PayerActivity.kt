@@ -84,8 +84,8 @@ class PayerActivity() : BaseMVVMActivity<PayerActivityCallBack, PayerActivityVie
         showMessage(error.message!!)
     }
 
-    override fun getLayoutMain(): Int {
-        return R.layout.activity_payer
+    override fun getLayoutMain(): Int{
+        return com.hcthang.apptuyendung.R.layout.activity_payer
     }
 
     fun onTrial30Days() {

@@ -7,11 +7,6 @@ import com.hcthang.apptuyendung.ui.payer.PayerActivity
 import com.hcthang.apptuyendung.ui.xample.MainActivity
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 @Module
 abstract class ActivityBuilderModule {

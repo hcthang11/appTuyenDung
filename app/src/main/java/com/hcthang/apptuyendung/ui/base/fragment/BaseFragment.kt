@@ -15,11 +15,6 @@ import com.hcthang.apptuyendung.R
 import com.hcthang.apptuyendung.common.MVVMApplication
 import com.hcthang.apptuyendung.ui.base.AnimationScreen
 import com.hcthang.apptuyendung.ui.base.activity.BaseActivity
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 abstract class BaseFragment : Fragment() , ViewFragment {
     protected var mIsDestroyView = true

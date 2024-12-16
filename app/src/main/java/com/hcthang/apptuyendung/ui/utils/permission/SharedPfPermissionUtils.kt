@@ -1,11 +1,6 @@
 package com.hcthang.apptuyendung.ui.utils.permission
 
 import android.content.Context
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 object SharedPfPermissionUtils {
     val SYSTEM_CONFIG = "SYSTEM_CONFIG"

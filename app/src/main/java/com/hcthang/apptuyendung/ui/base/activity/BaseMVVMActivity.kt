@@ -15,11 +15,6 @@ import dagger.android.DispatchingAndroidInjector
 import dagger.android.HasAndroidInjector
 import java.util.*
 import javax.inject.Inject
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 abstract class BaseMVVMActivity<
         CallBack : BaseCallBack,

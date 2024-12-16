@@ -16,11 +16,6 @@ import dagger.android.DaggerApplication
 import dagger.android.support.AndroidSupportInjectionModule
 import java.util.concurrent.Executor
 import javax.inject.Singleton
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 @Singleton
 @Component(

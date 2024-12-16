@@ -20,11 +20,6 @@ import com.hcthang.apptuyendung.ui.account.information.InformationFragment
 import com.hcthang.apptuyendung.ui.account.update_skill.UpdateSkillFragment
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 @Module
 abstract class FragmentBuilderModule {

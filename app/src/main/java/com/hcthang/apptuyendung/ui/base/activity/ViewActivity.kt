@@ -4,11 +4,6 @@ import android.os.Bundle
 import android.view.View
 import com.hcthang.apptuyendung.ui.base.BaseViewUI
 import com.hcthang.apptuyendung.ui.base.fragment.BaseFragment
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 interface ViewActivity : BaseViewUI{
 

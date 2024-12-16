@@ -17,11 +17,6 @@ import java.text.ParseException
 import java.text.SimpleDateFormat
 import java.util.*
 import java.util.concurrent.TimeUnit
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 
 object ApiHelp {

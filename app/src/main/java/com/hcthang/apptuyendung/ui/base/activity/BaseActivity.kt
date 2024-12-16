@@ -12,12 +12,6 @@ import com.hcthang.apptuyendung.common.MVVMApplication
 import com.hcthang.apptuyendung.ui.base.fragment.BaseFragment
 import com.hcthang.apptuyendung.ui.utils.permission.PermissionGrantUtils
 import com.google.android.material.snackbar.Snackbar
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
-
 abstract class BaseActivity : AppCompatActivity(), ViewActivity {
     protected var mIsClearMemoryActivity: Boolean = false
     protected var mIsDestroyView = true

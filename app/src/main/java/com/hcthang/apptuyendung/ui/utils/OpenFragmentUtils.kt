@@ -6,11 +6,6 @@ import com.hcthang.apptuyendung.ui.base.AnimationScreen
 import com.hcthang.apptuyendung.ui.base.fragment.BaseFragment
 import com.hcthang.apptuyendung.ui.login.signup.RegisterFragment
 import com.hcthang.apptuyendung.ui.xample.user.UserFragment
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 object OpenFragmentUtils {
     @JvmStatic

@@ -3,11 +3,6 @@ package com.hcthang.apptuyendung.data.remote
 import com.hcthang.apptuyendung.common.Constants
 import com.hcthang.apptuyendung.common.eventbus.ActionBus
 import com.vmodev.realmmvp.eventbus.Bus
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 class InteractCommon {
     private val apiUser : ApiUser?

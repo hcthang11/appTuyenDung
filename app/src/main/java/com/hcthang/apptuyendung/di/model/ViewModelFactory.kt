@@ -5,11 +5,6 @@ import androidx.lifecycle.ViewModelProvider
 import javax.inject.Inject
 import javax.inject.Provider
 import javax.inject.Singleton
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 @Singleton
 @Suppress("UNCHECKED_CAST")

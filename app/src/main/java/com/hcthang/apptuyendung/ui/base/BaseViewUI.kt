@@ -1,11 +1,6 @@
 package com.hcthang.apptuyendung.ui.base
 
 import androidx.databinding.ViewDataBinding
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 interface BaseViewUI {
     fun getLayoutMain(): Int

@@ -3,11 +3,6 @@ package com.hcthang.apptuyendung.di.model
 import androidx.lifecycle.ViewModel
 import dagger.MapKey
 import kotlin.reflect.KClass
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 @MustBeDocumented
 @Target(

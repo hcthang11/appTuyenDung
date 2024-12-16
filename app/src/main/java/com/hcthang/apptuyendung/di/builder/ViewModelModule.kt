@@ -29,11 +29,6 @@ import com.hcthang.apptuyendung.ui.payer.PayerActivityViewModel
 import dagger.Binds
 import dagger.Module
 import dagger.multibindings.IntoMap
-//******************************
-//******************************
-//***** Create by cuongpq  *****
-//******************************
-//******************************
 
 @Module
 abstract class ViewModelModule {
